@@ -1,0 +1,17 @@
+.image {
+    display: block;
+    align-items: center;
+    margin: auto;
+    max-width: 100%; 
+}
+
+.header{
+    align-items: center;
+    text-align: center;
+}
+
+.img-caption .img-div{
+    align-items: center;
+    text-align: center;
+}
+
